@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NationalPark>
+
+  <NationalPark>
+    <Name>Grand Canyon</Name>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Yellowstone</Name>
+    <Name>Old Faithful Park</Name>
+    <Phone>307-344-7381</Phone>
+    <Address NearestAirport="Jackson Hole">
+      <Number>1</Number>
+      <Street>Grand Loop Road</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Yosemite</Name>
+    <Phone>209-372-0200</Phone>
+    <Address NearestAirport="Fresno Yosemite">
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalPark>
